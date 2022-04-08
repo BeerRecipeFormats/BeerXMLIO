@@ -1,3 +1,3 @@
 # BeerXMLIO
 
-A description of this package.
+This package provides an encoder and decoder for the BeerXML recipe format.
